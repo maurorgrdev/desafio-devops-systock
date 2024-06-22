@@ -30,7 +30,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 - Pentaho Data Integration (PDI)
 - PostgreSQL
 - GitHub para versionamento
-- Scripts SQL fornecidos (Database A e Database B)
+- Scripts SQL fornecidos (backup_a e backup_b)
 
 ### Diferenciais:
 - Uso de Docker para configurar o ambiente
@@ -44,15 +44,16 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
   - Pentaho Data Integration (PDI)
   - PostgreSQL
   - Docker (opcional)
+
 ### 2. Configuração dos Bancos de Dados
+- Criação dos bancos de dados
+  - Crie dois banco de dados banco_a e banco_b
 - Execute os scripts SQL fornecidos para configurar os bancos de dados:
-  - Script 1: Criação do banco de dados com dados (Database A).
-  - Script 2: Criação do banco de dados sem dados (Database B).
-
-
+  - backup_a.dmp: Criação da tabela consumos_a no banco_a.
+  - backup_b.dmp: Criação da tabela consumos_b no banco_b.
 
 ### 3. Integração e Manipulação de Dados
-- Use Pentaho PDI para transferir os dados do Database A para o Database B.
+- Use Pentaho PDI para transferir os dados da tabela consumos_a para a tabela consumos_b
 - Lide com erros de tipos de dados modificados entre os bancos de dados e documente as soluções aplicadas.
   
 ### 4. Documentação e Entregáveis
