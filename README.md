@@ -47,7 +47,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 
 ### 2. Configuração dos Bancos de Dados
 - Criação dos bancos de dados
-  - Crie dois banco de dados banco_a e banco_b
+  - Crie dois bancos de dados banco_a e banco_b
 - Execute os scripts SQL fornecidos para configurar os bancos de dados:
   - backup_a.dmp: Criação da tabela consumos_a no banco_a.
   - backup_b.dmp: Criação da tabela consumos_b no banco_b.
