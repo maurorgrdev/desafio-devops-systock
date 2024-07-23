@@ -17,7 +17,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 
 ## Objetivo
 
-1. Preparar um ambiente Linux (VM ou WSL) com as ferramentas necessárias.
+1. Preparar um ambiente Linux (VM ou WSL) com as ferramentas necessárias (Utilize apenas Windows se houver necessidade).
 2. Configurar dois bancos de dados PostgreSQL utilizando scripts fornecidos.
 3. Integrar dados entre os dois bancos de dados usando Pentaho PDI, lidando com erros de tipos de dados.
 4. Documentar e versionar todo o trabalho no GitHub.
@@ -26,7 +26,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 ## Requisitos
 
 ### Obrigatórios:
-- VM Linux ou WSL no Windows
+- VM Linux ou WSL no Windows (Utilize apenas Windows se houver necessidade).
 - Pentaho Data Integration (PDI)
 - PostgreSQL
 - GitHub para versionamento
@@ -39,7 +39,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 ## Instruções
 
 ### 1. Preparação do Ambiente
-- Configure uma VM Linux ou use o WSL no Windows.
+- Configure uma VM Linux ou use o WSL no Windows (Utilize apenas Windows se houver necessidade).
 - Instale as seguintes ferramentas:
   - Pentaho Data Integration (PDI)
   - PostgreSQL
@@ -70,7 +70,7 @@ Este desafio técnico tem como objetivo avaliar a competência técnica do candi
 ## Entrega
 - Crie um repositório no GitHub e envie todos os arquivos mencionados acima.
 - Forneça o link do repositório ao final do desafio para o e-mail arielle.reis@systock.com.br
-- Envie o projeto até o dia 30/06/2024.
+- Envie o projeto até o dia 26/07/2024.
 - Entregue o desafio mesmo que ainda não tenha concluído.
 
 
